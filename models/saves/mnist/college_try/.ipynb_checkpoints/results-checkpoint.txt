@@ -1,6 +1,0 @@
-Test Accuracy for rbf kernel, C=5.0, gamma=0.25: 61.03%
-Test Accuracy for rbf kernel, C=5.0, gamma=0.5: 60.99%
-Test Accuracy for rbf kernel, C=5.0, gamma=10.0: 60.99%
-Test Accuracy for rbf kernel, C=5.0, gamma=25.0: 60.99%
-Test Accuracy for rbf kernel, C=10.0, gamma=0.25: 61.03%
-Test Accuracy for rbf kernel, C=10.0, gamma=0.5: 60.99%

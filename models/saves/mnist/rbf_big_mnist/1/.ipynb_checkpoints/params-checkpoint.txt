@@ -1,3 +1,0 @@
-Params: 
-C = 1.0
-gamma = 0.1

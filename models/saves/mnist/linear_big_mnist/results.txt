@@ -1,2 +1,0 @@
-args:linear kernel, C=[0.1, 0.5, 25.0, 50.0, 100.0, 200.0], scale=True, pca=True, samples=30000
-

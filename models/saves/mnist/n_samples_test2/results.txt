@@ -1,3 +1,0 @@
-args:linear kernel, C=[1.0], scale=True, pca=False, samples=10000
-
-Test Accuracy for linear kernel, C=1.0: 87.26%

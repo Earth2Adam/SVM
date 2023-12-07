@@ -78,7 +78,6 @@ class SVM:
 
     
     def test(self, X_test, y_test):
-        
         predictions = self.predict(X_test)
         # assuming y_test isn't already binary
         y_test_binary = np.where(y_test == self.correct_label, 1, -1) 

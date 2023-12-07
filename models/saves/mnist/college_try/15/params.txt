@@ -1,0 +1,3 @@
+Params: 
+C = 50.0
+gamma = 10.0

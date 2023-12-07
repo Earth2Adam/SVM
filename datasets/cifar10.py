@@ -8,7 +8,6 @@ import os
 from .utils import unpickle
 
 
-
 class CIFAR10(Dataset):
     
     def __init__(self, root, train):

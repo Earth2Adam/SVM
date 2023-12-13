@@ -5,8 +5,6 @@ import matplotlib.pyplot as plt
 from torch.utils.data import Dataset
 import os
 
-from .utils import unpickle
-
 
 class MNIST(Dataset):
     
